@@ -1,4 +1,5 @@
 # wade-ai-operating-system
+![Uploading image.png…]()
 
 Wade AI Operating System
 Purpose
